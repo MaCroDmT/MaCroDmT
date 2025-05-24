@@ -118,3 +118,12 @@
   <br><br>
   📫 Feel free to reach out: <a href="mailto:prottoys28@gmail.com">prottoys28@gmail.com</a>
 </p>
+
+---
+
+<p align="center">
+  © 2025 Prottoy Saha — "MaCroDmT" is a registered alias and personal brand.  
+  All rights reserved.
+</p>
+---
+

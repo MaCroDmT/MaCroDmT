@@ -6,7 +6,7 @@
 <h1 align="center">Hey there! I'm Prottoy Saha 👋</h1>
 
 <p align="center">
-  🎓 CSE Student at <b>AIUB</b> | 💻 Aspiring Software Engineer | 🔬 Robotics Enthusiast  
+  🎓 CSE Student at <b>AIUB</b> | 💻 Aspiring Software Engineer | 🔬 Database Enthusiast |  
   <br>
   🌱 Passionate about full-stack development, data analysis, and tech innovation
 </p>
@@ -124,6 +124,11 @@
 <p align="center">
   © 2025 Prottoy Saha — "MaCroDmT" is a registered alias and personal brand.  
   All rights reserved.
+</p>
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MaCroDmT&label=Profile%20Views&color=0e75b6&style=flat" alt="MaCroDmT" />
 </p>
 ---
 

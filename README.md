@@ -109,16 +109,16 @@
 - 📌 Maintained a **Consistent Dean’s List** level performance across all semesters
 - 🧠 Scored **4.00 SGPA** in multiple semesters (Spring & Summer 2022–2023, Spring 2023–2024)
 - 💡 Excelled in core courses such as:
--**Web Technologies**
--**Python**
--**Algorithm**
--**Object Oriented Programming C#**
--**Database (SQL) & Advanced Database Management System (PLSQL)**
--**Artificial Intelligence and Expert Systems**
--**Machine Learning**
--**Software Engineering, Software Requirement Engineering & Software Quality Assurance & Testing**
--**Compiler Design & Theory of Computation**
--**Operating Systems**
+**Web Technologies**
+**Python**
+**Algorithm**
+**Object Oriented Programming C#**
+**Database (SQL) & Advanced Database Management System (PLSQL)**
+**Artificial Intelligence and Expert Systems**
+**Machine Learning**
+**Software Engineering, Software Requirement Engineering & Software Quality Assurance & Testing**
+**Compiler Design & Theory of Computation**
+**Operating Systems**
 - 🏗️ Completed hands-on labs in **Electronics, Circuits, Microprocessors and Embaded Systems**, and **Digital Logic**
 - 📈 Proven academic strength in **Mathematics, Statistics, and Object Oriented Analysis and Design**
 

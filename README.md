@@ -67,7 +67,7 @@
 ## 🧩 Featured Projects
 
 - **Pastry Shop Management System** – Web app using HTML, CSS, JS, PHP, and MySQL
-  -**Hosted live at** <a href="https://macrodmt.rf.gd/view/login.php" target="_blank" rel="noopener noreferrer">https://macrodmt.rf.gd/Pastry Shop Management System</a>
+  -**Hosted live at** <a href="https://macrodmt.rf.gd/view/login.php" target="_blank" rel="noopener noreferrer">https://macrodmt.rf.gd/Pastry Shop Management System </a>
 - **Planetary Database Management** – Oracle-based database system with frontend  
 - **Data Analysis Portfolio** – Visualizations using Pandas, NumPy, Matplotlib  
 - **City-Village Ecosystem** – Visualization built in C++ with OpenGL  

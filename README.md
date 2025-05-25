@@ -16,6 +16,9 @@
   <a href="https://github.com/MaCroDmT"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/prottoy-saha-736097357/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://sites.google.com/view/prottoy21"><img src="https://img.shields.io/badge/Portfolio-0E9AA7?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://www.researchgate.net/profile/Prottoy-Saha-3?ev=hdr_xprf" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate Profile" />
+</a>
 </p>
 
 ---
@@ -63,7 +66,7 @@
 
 ## 🧩 Featured Projects
 
-- **Pastry Shop Management System** – Web app using HTML, CSS, JS, PHP, and MySQL  
+- **Pastry Shop Management System** – Web app using HTML, CSS, JS, PHP, and MySQL **Hosted live at** <a href="https://macrodmt.rf.gd/view/login.php"></a>
 - **Planetary Database Management** – Oracle-based database system with frontend  
 - **Data Analysis Portfolio** – Visualizations using Pandas, NumPy, Matplotlib  
 - **City-Village Ecosystem** – Visualization built in C++ with OpenGL  

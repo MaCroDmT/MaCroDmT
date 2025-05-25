@@ -114,11 +114,11 @@
   -**Algorithm**
   -**Object Oriented Programming C#**
   -**Database (SQL) & Advanced Database Management System (PLSQL)**
-  - **Artificial Intelligence and Expert Systems**
-  - **Machine Learning**
-  - **Software Engineering, Software Requirement Engineering & Software Quality Assurance & Testing**
-  - **Compiler Design & Theory of Computation**
-  - **Operating Systems**
+  -**Artificial Intelligence and Expert Systems**
+  -**Machine Learning**
+  -**Software Engineering, Software Requirement Engineering & Software Quality Assurance & Testing**
+  -**Compiler Design & Theory of Computation**
+  -**Operating Systems**
 - 🏗️ Completed hands-on labs in **Electronics, Circuits, Microprocessors and Embaded Systems**, and **Digital Logic**
 - 📈 Proven academic strength in **Mathematics, Statistics, and Object Oriented Analysis and Design**
 

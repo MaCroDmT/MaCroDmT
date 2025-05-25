@@ -93,7 +93,7 @@
 🏛️ **Bachelor of Science in Computer Science & Engineering**  
 🎯 **CGPA**: 3.85 / 4.00  
 🎓 **University**: American International University - Bangladesh (AIUB)  
-📚 **Total Credits Completed**: 133.0  
+📚 **Total Credits Completed**: 133.0 /148.0 
 📖 **Courses Completed**: 51
 
 ---
@@ -103,13 +103,18 @@
 - 📌 Maintained a **Consistent Dean’s List** level performance across all semesters
 - 🧠 Scored **4.00 SGPA** in multiple semesters (Spring & Summer 2022–2023, Spring 2023–2024)
 - 💡 Excelled in core courses such as:
+  -**Web Technologies**
+  -**Python**
+  -**Algorithm**
+  -**Object Oriented Programming C#**
+  -**Database (SQL) & Advanced Database Management System (PLSQL)**
   - **Artificial Intelligence and Expert Systems**
   - **Machine Learning**
-  - **Software Engineering & Software Quality Testing**
+  - **Software Engineering, Software Requirement Engineering & Software Quality Assurance & Testing**
   - **Compiler Design & Theory of Computation**
-  - **Advanced DBMS, Web Technologies, and Operating Systems**
-- 🏗️ Completed hands-on labs in **Electronics, Circuits, Microprocessors**, and **Digital Logic**
-- 📈 Proven academic strength in **Mathematics, Statistics, and Algorithm Design**
+  - **Operating Systems**
+- 🏗️ Completed hands-on labs in **Electronics, Circuits, Microprocessors and Embaded Systems**, and **Digital Logic**
+- 📈 Proven academic strength in **Mathematics, Statistics, and Object Oriented Analysis and Design**
 
 ## 📈 GitHub Stats
 
@@ -140,7 +145,7 @@
   © 2025 Prottoy Saha — "MaCroDmT" is a registered alias and personal brand.  
   All rights reserved.
 </p>
----
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MaCroDmT&label=Profile%20Views&color=0e75b6&style=flat" alt="MaCroDmT" />

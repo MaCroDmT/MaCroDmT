@@ -104,8 +104,8 @@
 
 ### 🏆 Notable Academic Achievements
 
-- 📌 Maintained a **Consistent Dean’s List** level performance across all semesters
-- 🧠 Scored **4.00 SGPA** in multiple semesters (Spring & Summer 2022–2023, Spring 2023–2024)
+- 📌 Maintained a **Consistent Dean's Honorable Mention** level performance across all semesters
+- 🧠 Scored **4.00/4.00 GPA** in multiple semesters including (Spring 2022–2023, Summer 2022–2023, Spring 2023–2024)
 - 💡 Excelled in core courses such as:
 -**Web Technologies**
 -**Python**

@@ -6,7 +6,7 @@
 <h1 align="center">Hey there! I'm Prottoy Saha 👋</h1>
 
 <p align="center">
-  🎓 CSE Student at <b>AIUB</b> | 💻 Aspiring Software Engineer | 💾 Database Enthusiast |  
+  🎓 Final Year CSE Student From  <b>AIUB</b> | 💻 Aspiring Software Engineer | 💾 Database Enthusiast |  
   <br>
   🌱 Passionate about full-stack development, SDLC, SQAT and tech innovation
 </p>

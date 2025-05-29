@@ -99,8 +99,6 @@
 🏛️ **Bachelor of Science in Computer Science & Engineering**  
 🎯 **CGPA**: 3.85 / 4.00  
 🎓 **University**: American International University - Bangladesh (AIUB)  
-📚 **Total Credits Completed**: 133.0 /148.0 
-📖 **Courses Completed**: 51
 
 ---
 
@@ -114,7 +112,7 @@
 -**Algorithm**
 -**Object Oriented Programming C#**
 -**Database (SQL) & Advanced Database Management System (PLSQL)**
--**Artificial Intelligence and Expert Systems**
+-**Artificial Intelligence and Expertise Systems**
 -**Machine Learning**
 -**Software Engineering, Software Requirement Engineering & Software Quality Assurance & Testing**
 -**Compiler Design & Theory of Computation**

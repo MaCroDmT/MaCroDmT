@@ -31,7 +31,7 @@
 - 🧑‍🎓 B.Sc. in **Computer Science and Engineering** at AIUB (CGPA: 3.85/4.00)
 - 💡 Skilled in building dynamic web applications and desktop software
 - 🤖 Published author in **International Journal of Robotics and Control Systems**
-- 🌐 Love to build impactful projects using HTML, CSS, React, Next.js, PHP, and more
+- 🌐 Love to build impactful projects using **HTML, CSS, React, Next.js, PHP, and more**
 - 📊 Data enthusiast with experience in **Python, Pandas, NumPy, and Matplotlib**
 - 🚀 Always eager to explore new technologies and innovate solutions
 

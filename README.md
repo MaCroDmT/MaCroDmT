@@ -63,7 +63,7 @@
   <img src="https://img.shields.io/badge/LaTeX-47A141?style=flat&logo=latex&logoColor=white"/>
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=MathWorks&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" alt="OpenGL" />
-  <img src="https://img.shields.io/badge/Weather_API-Visual_Crossing-00BFFF?style=flat&logo=cloud&logoColor=white" alt="Visual Crossing Weather API" style="margin-right: 6px;"/>
+  <img src="https://img.shields.io/badge/Weather_API-Visual_Crossing-00BFFF?style=flat&logo=cloud&logoColor=white" alt="Visual Crossing Weather API" />
 
 
 

@@ -18,10 +18,7 @@
   <a href="https://sites.google.com/view/prottoy21"><img src="https://img.shields.io/badge/Portfolio-0E9AA7?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   <a href="https://www.researchgate.net/profile/Prottoy-Saha-3?ev=hdr_xprf" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate Profile" />
-</a>
- <a href="https://www.youtube.com/@macrodmt35lightning" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Channel" />
-</a>
+
 </p>
 
 ---

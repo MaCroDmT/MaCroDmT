@@ -77,6 +77,8 @@
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" alt="Kotlin"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/Cisco_IOS_CLI-1BA0D7?style=flat&logo=cisco&logoColor=white" alt="Cisco IOS CLI"/>
+  <img src="https://img.shields.io/badge/NoSQL-4285F4?style=flat&logo=databricks&logoColor=white" alt="NoSQL"/>
+
 
 
 

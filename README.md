@@ -30,10 +30,10 @@
 ## 🧠 About Me
 
 - 🧑‍🎓 B.Sc. in **Computer Science and Engineering** at AIUB (CGPA: 3.85/4.00)
-- 💡 Skilled in building dynamic web applications and desktop software
+- 💡 Skilled in building dynamic web applications and desktop software, Software Requirement Specification (SRS) and Software Quality Assuarnce and Testing (SQAT)
 - 🤖 Published author in **International Journal of Robotics and Control Systems**
-- 🌐 Love to build impactful projects using **HTML, CSS, React, Next.js, PHP, and more**
-- 📊 Data enthusiast with experience in **Python, Pandas, NumPy, and Matplotlib**
+- 🌐 Love to build impactful projects using **HTML, CSS, React, Next.js, PHP, Laravel and more**
+- 📊 Data enthusiast with experience in **Python, Pandas, NumPy, Scikit Learn and Matplotlib**
 - 🚀 Always eager to explore new technologies and innovate solutions
 
 ---
@@ -65,6 +65,13 @@
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=MathWorks&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" alt="OpenGL" />
   <img src="https://img.shields.io/badge/Weather_API-Visual_Crossing-00BFFF?style=flat&logo=cloud&logoColor=white" alt="Visual Crossing Weather API" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white" alt="PowerShell"/>
+
 
 
 

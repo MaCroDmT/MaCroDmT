@@ -78,6 +78,9 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/Cisco_IOS_CLI-1BA0D7?style=flat&logo=cisco&logoColor=white" alt="Cisco IOS CLI"/>
   <img src="https://img.shields.io/badge/NoSQL-4285F4?style=flat&logo=databricks&logoColor=white" alt="NoSQL"/>
+  <img src="https://img.shields.io/badge/PL%2FSQL-F80000?style=flat&logo=oracle&logoColor=white" alt="PL/SQL"/>
+  <img src="https://img.shields.io/badge/Oracle_10g_DB-F80000?style=flat&logo=oracle&logoColor=white" alt="Oracle 10g Database"/>
+
 
 
 

@@ -80,6 +80,8 @@
   <img src="https://img.shields.io/badge/NoSQL-4285F4?style=flat&logo=databricks&logoColor=white" alt="NoSQL"/>
   <img src="https://img.shields.io/badge/PL%2FSQL-F80000?style=flat&logo=oracle&logoColor=white" alt="PL/SQL"/>
   <img src="https://img.shields.io/badge/Oracle_10g_DB-F80000?style=flat&logo=oracle&logoColor=white" alt="Oracle 10g Database"/>
+  <img src="https://img.shields.io/badge/VBA-2C2C2C?style=flat&logo=visual-basic&logoColor=white" alt="VBA"/>
+
 
 
 

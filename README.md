@@ -100,7 +100,7 @@
 ---
 
 ## 🧩 Featured Projects
-
+-**Laravel Job Portal** – An Interactive Web app created by using Laravel, Blade, PHP, CSS, and MySQL
 - **Pastry Shop Management System** – Web app using HTML, CSS, JS, PHP, and MySQL  
   - **Hosted live at:** [https://macrodmt.rf.gd/view/login.php](https://macrodmt.rf.gd/view/login.php)
 - **Planetary Database Management** – Oracle-based database system with frontend  

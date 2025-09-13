@@ -126,7 +126,7 @@
 ## 🎓 Academic Excellence
 
 🏛️ **Bachelor of Science in Computer Science & Engineering**  
-🎯 **CGPA**: 3.85 / 4.00  
+🎯 **CGPA**: 3.86 / 4.00  
 🎓 **University**: American International University - Bangladesh (AIUB)  
 
 ---

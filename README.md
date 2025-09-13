@@ -29,7 +29,7 @@
 
 ## 🧠 About Me
 
-- 🧑‍🎓 B.Sc. in **Computer Science and Engineering** at AIUB (CGPA: 3.85/4.00)
+- 🧑‍🎓 B.Sc. in **Computer Science and Engineering** at AIUB (CGPA: 3.86/4.00)
 - 💡 Skilled in building dynamic web applications and desktop software, Software Requirement Specification (SRS) and Software Quality Assuarnce and Testing (SQAT)
 - 🤖 Published author in **International Journal of Robotics and Control Systems**
 - 🌐 Love to build impactful projects using **HTML, CSS, PHP, Laravel, React, Next.js and more**

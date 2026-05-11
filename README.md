@@ -6,7 +6,7 @@
 <h1 align="center">Hey there! I'm Prottoy Saha 👋</h1>
 
 <p align="center">
-  🎓 Fresh Graduated CSE Student From  <b>AIUB</b> | 💻 Software Engineer | 💾 Database Enthusiast |  
+  🎓 Graduated B.Sc. in CSE From  <b>AIUB</b> | 💻 Software Engineer | 💾 Database Enthusiast |  
   <br>
   🌱 Passionate about full-stack development, SDLC, SQAT and tech innovation
 </p>
@@ -41,6 +41,20 @@
 <p>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white"/>
+
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
+
+
+<img src="https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
+
+
+<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
@@ -98,6 +112,11 @@
 ---
 
 ## 🧩 Featured Projects
+-**Orbit Foods Management System**- A Django Framework Based Full stack project connected with MySQL developed as a whole online business suit for Orbit Foods Limited
+-**Gate Pass Management System** - An Android Based Project connected with firebase (firestore as db) and firebase authentication and authorization services for passing goods and people through the gate with the valid permission from the Admin/HR for company releted purposes/personal purposes/goods transfer purposes
+-**Smart Task Reminder System** - An Android Based Project connected with firebase (firestore as db) and firebase authentication and authorization services for the Employee's where thier manager can assign and Disrtibute tasks to their Subordinates and admin can overview on taks compeletion
+-**Geo Tracker** - An Android WebView Based connected with firebase (firestore as db) and firebase authentication and authorization services project For ensuring attendance of the employees workinng outside of their orgnaization for company releated purposes
+-**Geo Tracker-Flask** - A Flask Framework based Admin Portal for attendnace Management, User Management, Site Visit Management purposes synced with andorid Based Geo Tracker Application
 -**Laravel Job Portal** – An Interactive Web app created by using Laravel, Blade, PHP, CSS, and MySQL
 - **Pastry Shop Management System** – Web app using HTML, CSS, JS, PHP, and MySQL  
   - **Hosted live at:** [https://macrodmt.rf.gd/view/login.php](https://macrodmt.rf.gd/view/login.php)
@@ -135,6 +154,7 @@
 - 🧠 Scored **4.00/4.00 GPA** in multiple semesters including: (Spring 2022–2023, Summer 2022–2023, Spring 2023–2024, Spring 2024–2025)
 - 💡 Excelled in core courses such as:
 -**Web Technologies**
+-**Mobile Application Development-Native Android-Kotlin,Flutter,Unity,Swift**
 -**Python**
 -**Algorithm**
 -**Object Oriented Programming C#**
@@ -173,7 +193,7 @@
 ---
 
 <p align="center">
-  © 2025 Prottoy Saha — "MaCroDmT" is a registered alias and personal brand.  
+  © 2025 Prottoy Saha  
   All rights reserved.
 </p>
 

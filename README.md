@@ -113,18 +113,18 @@
 
 ## 🧩 Featured Projects
 -**Orbit Foods Management System**- A Django Framework Based Full stack project connected with MySQL developed as a whole online business suit for Orbit Foods Limited <br>
--**Gate Pass Management System** - An Android Based Project connected with firebase (firestore as db) and firebase authentication and authorization services for passing goods and people through the gate with the valid permission from the Admin/HR for company releted purposes/personal purposes/goods transfer purposes
--**Smart Task Reminder System** - An Android Based Project connected with firebase (firestore as db) and firebase authentication and authorization services for the Employee's where thier manager can assign and Disrtibute tasks to their Subordinates and admin can overview on taks compeletion
--**Geo Tracker** - An Android WebView Based connected with firebase (firestore as db) and firebase authentication and authorization services project For ensuring attendance of the employees workinng outside of their orgnaization for company releated purposes
--**Geo Tracker-Flask** - A Flask Framework based Admin Portal for attendnace Management, User Management, Site Visit Management purposes synced with andorid Based Geo Tracker Application
--**Laravel Job Portal** – An Interactive Web app created by using Laravel, Blade, PHP, CSS, and MySQL
-- **Pastry Shop Management System** – Web app using HTML, CSS, JS, PHP, and MySQL  
-  - **Hosted live at:** [https://macrodmt.rf.gd/view/login.php](https://macrodmt.rf.gd/view/login.php)
-- **Planetary Database Management** – Oracle-based database system with frontend  
-- **Data Analysis Portfolio** – Visualizations using Pandas, NumPy, Matplotlib  
-- **City-Village Ecosystem** – Visualization built in C++ with OpenGL  
-- **Car Rental System** – Java-based desktop app  
-- **Land Vitality System** – Software Requirement Specification (SRS)
+-**Gate Pass Management System** - An Android Based Project connected with firebase (firestore as db) and firebase authentication and authorization services for passing goods and people through the gate with the valid permission from the Admin/HR for company releted purposes/personal purposes/goods transfer purposes <br>
+-**Smart Task Reminder System** - An Android Based Project connected with firebase (firestore as db) and firebase authentication and authorization services for the Employee's where thier manager can assign and Disrtibute tasks to their Subordinates and admin can overview on taks compeletion <br>
+-**Geo Tracker** - An Android WebView Based connected with firebase (firestore as db) and firebase authentication and authorization services project For ensuring attendance of the employees workinng outside of their orgnaization for company releated purposes <br>
+-**Geo Tracker-Flask** - A Flask Framework based Admin Portal for attendnace Management, User Management, Site Visit Management purposes synced with andorid Based Geo Tracker Application <br>
+-**Laravel Job Portal** – An Interactive Web app created by using Laravel, Blade, PHP, CSS, and MySQL <br>
+- **Pastry Shop Management System** – Web app using HTML, CSS, JS, PHP, and MySQL  <br>
+  - **Hosted live at:** [https://macrodmt.rf.gd/view/login.php](https://macrodmt.rf.gd/view/login.php) <br>
+- **Planetary Database Management** – Oracle-based database system with frontend  <br>
+- **Data Analysis Portfolio** – Visualizations using Pandas, NumPy, Matplotlib  <br>
+- **City-Village Ecosystem** – Visualization built in C++ with OpenGL  <br>
+- **Car Rental System** – Java-based desktop app  <br>
+- **Land Vitality System** – Software Requirement Specification (SRS) <br>
 
 > 📌 Check out my full portfolio: [prottoy21](https://sites.google.com/view/prottoy21)
 

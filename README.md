@@ -112,7 +112,7 @@
 ---
 
 ## 🧩 Featured Projects
--**Orbit Foods Management System**- A Django Framework Based Full stack project connected with MySQL developed as a whole online business suit for Orbit Foods Limited
+-**Orbit Foods Management System**- A Django Framework Based Full stack project connected with MySQL developed as a whole online business suit for Orbit Foods Limited <br>
 -**Gate Pass Management System** - An Android Based Project connected with firebase (firestore as db) and firebase authentication and authorization services for passing goods and people through the gate with the valid permission from the Admin/HR for company releted purposes/personal purposes/goods transfer purposes
 -**Smart Task Reminder System** - An Android Based Project connected with firebase (firestore as db) and firebase authentication and authorization services for the Employee's where thier manager can assign and Disrtibute tasks to their Subordinates and admin can overview on taks compeletion
 -**Geo Tracker** - An Android WebView Based connected with firebase (firestore as db) and firebase authentication and authorization services project For ensuring attendance of the employees workinng outside of their orgnaization for company releated purposes

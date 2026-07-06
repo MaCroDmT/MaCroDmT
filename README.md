@@ -30,7 +30,7 @@
 - 🧑‍🎓 B.Sc. in **Computer Science and Engineering** at AIUB (CGPA: 3.86/4.00)
 - 💡 Skilled in building dynamic web applications and desktop software, Software Requirement Specification (SRS) and Software Quality Assuarnce and Testing (SQAT)
 - 🤖 Published author in **International Journal of Robotics and Control Systems**
-- 🌐 Love to build impactful projects using **HTML, CSS, PHP, Laravel, React, Next.js and more**
+- 🌐 Love to build impactful projects using **Tailwind CSS, PHP, Laravel, React, Next.js, Vue, Django, Flask, Node.js and more**
 - 📊 Data enthusiast with experience in **Python, Pandas, NumPy, Scikit Learn and Matplotlib**
 - 🚀 Always eager to explore new technologies and innovate solutions
 
@@ -128,6 +128,20 @@
 
 > 📌 Check out my full portfolio: [prottoy21](https://sites.google.com/view/prottoy21)
 
+---
+
+## 📄 Research Publication
+
+🧾 **A Data-Driven Analysis of Maternal Health Risk Indicators Using Machine Learning Techniques**  
+📰 *Journal of Medical Artificial Intelligence (JMAI), Volume 9, 2026*  
+👨‍💻 **First Author**
+
+**Authors:**  
+Prottoy Saha, Mohammad Rakib, Fardin Abu Ubaid, Muhtasib Ibtida Kousik, Syeda Anika Tasnim, Rifath Mahmud, Tanvir Ahmed
+
+🔗 DOI: **10.21037/jmai-2025-199**
+
+📖 Read the paper: https://jmai.amegroups.org/article/view/11322
 ---
 
 ## 📜 Publication
